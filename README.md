@@ -41,3 +41,25 @@ DAN LAIN SEBAGAINYA.</p>
 
  </body>
 </html>
+
+style.css
+h3{
+  color: white;
+}
+body{
+  background: black ;
+}
+h4{
+  color: white ;
+}
+smal{
+  color: white ;
+}
+a {
+  background-color: #25D366;
+  color: white;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 12px;
+  border-radius: 10px;
+}
